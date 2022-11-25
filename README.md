@@ -9,10 +9,10 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1. Import the required libraries.
-2.Read the data set and find the number of null data.
-3.Import KMeans from sklearn.clusters library package.
+2. Read the data set and find the number of null data.
+3. Import KMeans from sklearn.clusters library package.
 4. Find the y_pred.
-5.Plot the clusters in graph.
+5. Plot the clusters in graph.
 
 ## Program:
 ```
