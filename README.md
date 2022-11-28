@@ -77,6 +77,9 @@ plt.title("Customer Segmets")
 
 ![3](https://user-images.githubusercontent.com/93992063/204021549-a4b060e9-e485-4b0e-9d35-0a870771b880.png)
 
+![5](https://user-images.githubusercontent.com/93992063/204303914-33037d12-1175-4c31-8781-5d6bb409dcdc.png)
+
+
 ![4](https://user-images.githubusercontent.com/93992063/204021561-c09a1097-5cc0-4423-8cb8-4d82a0ad2de6.png)
 
 
